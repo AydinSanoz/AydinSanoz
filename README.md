@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=AydinSanoz&show_icons=true" align='right' width="50%">
+
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning React_Native
 - 👯 I’m looking to collaborate on Software Development
