@@ -20,7 +20,7 @@
  -->
   
 <!-- - 😄 Pronouns: ... -->
-- Fun Fact: 🎾 Tennis, 🤿  ScubaDiving, 🏀 Basketball, 🏊‍♀️ Swimming
+- Fun Fact: 🎾 Tennis, 🤿  ScubaDiving, 🏀 Basketball, 🏊‍♀️Swimming
 -->
 
 I am Aydın . I interested always creating new world with codes. Now I started to my new career and my dream with Clarusway. Besides I am learning new It skills  here and creating my new Projects too. 
