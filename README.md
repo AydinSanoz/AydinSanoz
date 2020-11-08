@@ -2,9 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AydinSanoz&show_icons=true" align='right' width="50%">
 
-- 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently learning React_Native
-- 👯 I’m looking to collaborate on Software Development
+- 🔑 I’m currently working as a Freelancer
+- 📲  I’m currently learning React_Native
+- 🌈  I’m looking to collaborate on Software Development
 <!-- - 🤔 I’m looking for help with social Projects
 - 💬 Ask me about anything -->
 - 🔥 How to reach me: ...
