@@ -33,12 +33,11 @@ Also working as a freelancer.
 
 ## Especially interested skillsets 🔥
 
-- HTML
+- HTML    <img src = "./MyProjectsScrrenShots/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right" >
 - CSS
-- JAVASCRIPT
-- REACT-NATIVE
-- REACT-JS
-  <img src = "./MyProjectsScrrenShots/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right" >
+- JAVASCRIPT 
+- REACT-NATIVE 
+- REACT-JS 
 
 ---
   
