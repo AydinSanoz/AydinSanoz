@@ -38,7 +38,7 @@ Also working as a freelancer.
 - JAVASCRIPT
 - REACT-NATIVE
 - REACT-JS
-  <img src = "https://github.com/AydinSanoz/AydinSanoz/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right" >
+  <img src = "./MyProjectsScrrenShots/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right" >
 
 ---
   
