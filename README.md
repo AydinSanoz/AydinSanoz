@@ -40,7 +40,7 @@ Also working as a freelancer.
 - REACT-JS
   <img src = "https://github.com/AydinSanoz/AydinSanoz/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right" >
 
-
+---
   
 ### Some Of ScreenShots in my repositories 🔥
 |P0001|P0002|P0003|P0004|P0005|P0006|
