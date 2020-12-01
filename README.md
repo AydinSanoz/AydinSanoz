@@ -46,7 +46,7 @@ Also working as a freelancer.
 |---|---|---|---|---|---|
 |<img src = './MyProjectsScrrenShots/reverse.gif'>|<img src = './MyProjectsScrrenShots/loginPage.gif'>|<img src = './MyProjectsScrrenShots/todo.gif'>|<img src = './MyProjectsScrrenShots/CityYelpLast.gif'>|<img src = './MyProjectsScrrenShots/out.gif'>|<img src = './MyProjectsScrrenShots/famousOnes.gif'>|
 |P0007|P0008|P0009|P0010|P0011|P0012|
-|<img src = './MyProjectsScrrenShots/mynewspage.gif'>|<img src = './MyProjectsScrrenShots/clarusShopping.gif'>|<img src = './MyProjectsScrrenShots/mapCityRestaurant.gif'>|<img src = './MyProjectsScrrenShots/makeup.gif'>|
+|<img src = './MyProjectsScrrenShots/mynewspage.gif'>|<img src = './MyProjectsScrrenShots/clarusShopping.gif'>|<img src = './MyProjectsScrrenShots/mapCityRestaurant.gif'>|<img src = './MyProjectsScrrenShots/makeup.gif'>|<img src = './MyProjectsScrrenShots/clonetrivia.gif'>|<img src = './MyProjectsScrrenShots/makeup.gif'>
 
 ---
 
