@@ -38,6 +38,9 @@ Also working as a freelancer.
 - JAVASCRIPT 
 - REACT-NATIVE 
 - REACT-JS 
+- JEST
+- POSTGRESS - EXPRESS
+- MONGO - EXPRESS
 
 ---
   
